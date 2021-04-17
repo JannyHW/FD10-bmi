@@ -1,6 +1,7 @@
 # BMI Calculator App
-
-![Page1](images/app1.png "Page1") ![Page2](images/app2.png "Page2")
+Page 1                |  Page 2
+:-------------------------:|:-------------------------:
+![](images/app1.png)  |  ![](images/app2.png)
 
 ## Getting Started
 
